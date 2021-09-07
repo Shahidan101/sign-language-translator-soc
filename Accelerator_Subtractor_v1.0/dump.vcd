@@ -1,0 +1,84 @@
+$date
+	Tue Sep  7 12:12:38 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	10ps
+$end
+$scope module tb $end
+$var wire 1 ! Bout $end
+$var wire 15 " DIFF [14:0] $end
+$var wire 1 # OE $end
+$var reg 1 $ Bin $end
+$var reg 1 % CLK $end
+$var reg 1 & DE $end
+$var reg 15 ' X [14:0] $end
+$var reg 15 ( Y [14:0] $end
+$var integer 32 ) counter [31:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 )
+b0 (
+b0 '
+0&
+1%
+0$
+x#
+bx "
+0!
+$end
+#2000
+0%
+#4000
+1!
+b110100 (
+b100101 '
+b1 )
+0#
+b0 "
+1%
+#6000
+0%
+#8000
+b1111 "
+b110000 (
+b10100 '
+b10 )
+1%
+#10000
+0%
+#12000
+b101110 (
+b1000 '
+b11 )
+b11100 "
+1%
+#14000
+0%
+#16000
+b100110 "
+b100110 (
+b11 '
+b100 )
+1%
+#18000
+0%
+#20000
+b111100 (
+b1011 '
+b101 )
+b100011 "
+1%
+#22000
+0%
+#24000
+1!
+b110001 "
+b10011 (
+b10 '
+b110 )
+1%

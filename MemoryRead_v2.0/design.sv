@@ -17,7 +17,6 @@ module counter(
           count <= count + 1;
         end
     end
-  
 endmodule
 
 module memory(
